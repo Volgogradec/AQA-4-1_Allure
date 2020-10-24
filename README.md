@@ -1,9 +1,4 @@
-# AQA-2-3
-Patterns [![Build status](https://ci.appveyor.com/api/projects/status/l2lba3mwx9yhdjcc?svg=true)](https://ci.appveyor.com/project/Volgogradec/aqa-2-3)
+# AQA-4-1
+Patterns [![Build status](https://ci.appveyor.com/api/projects/status/rylv0phji4jviuc8?svg=true)](https://ci.appveyor.com/project/Volgogradec/aqa-4-1-allure)
 
-Ссылка на задание: https://github.com/netology-code/aqa-homeworks/tree/aqa4/patterns
-
-Для запуска тестируемого приложения его нужно запустить командой:
-`java -jar artifacts/app-card-delivery.jar`
-
-После запуска, сервис доступен по адресу http://localhost:9999/
+Ссылка на задание: https://github.com/netology-code/aqa-homeworks/tree/aqa4/reporting
